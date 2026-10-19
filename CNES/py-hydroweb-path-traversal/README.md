@@ -61,6 +61,16 @@ from Content-Disposition before it is used to build the local file path.
 | 2026-10-12 | CNES released 1.3.3 with the fix |
 | 2026-10-19 | Public advisory published and CVE requested via MITRE |
 
-## Credit
+## Vendor Acknowledgment
 
-Discovered and reported by **Jonathan Peri** (https://github.com/periiDevl).
+CNES published a vulnerability notice on the hydroweb.next platform news page
+on 2026-10-11, crediting the report:
+
+> Thanks to Jonathan Peri for alerting us.
+https://web.archive.org/web/20261019205822/https://hydroweb.next.theia-land.fr/news
+
+## References
+
+- CNES vulnerability notice - https://hydroweb.next.theia-land.fr/news
+  ([archived 2026-10-19](https://web.archive.org/web/20261019205822/https://hydroweb.next.theia-land.fr/news))
+- Fixed release on PyPI - https://pypi.org/project/py-hydroweb/1.3.3/
