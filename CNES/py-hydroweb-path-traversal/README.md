@@ -8,7 +8,7 @@
 | **CWE** | CWE-22 (Improper Limitation of a Pathname to a Restricted Directory) |
 | **Affected** | < 1.3.3 |
 | **Fixed in** | 1.3.3 (2026-10-12) |
-| **Severity** | Medium - CVSS 3.1 **5.9** (`AV:N/AC:H/PR:N/UI:R/S:U/C:N/I:H/A:L`) |
+| **Severity** | High - CVSS 3.1 8.1 (AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:H/A:H) |
 | **CVE** | Pending |
 | **Reporter** | Jonathan Peri (https://github.com/periiDevl) |
 
